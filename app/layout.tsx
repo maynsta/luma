@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono"
 export const metadata: Metadata = {
   title: "Luma - Finde deinen Soulmate",
   description: "Dating-App basierend auf Persönlichkeit und gemeinsamen Interessen",
-    generator: 'v0.app'
+    generator: 'maynsta'
 }
 
 function ClientWrapper({ children }: { children: React.ReactNode }) {
